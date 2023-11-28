@@ -24,6 +24,19 @@
 
 <div align="center" style="margin-top: 20px;">
     <h1>Redes Sociais</h1>
-     <a href="https://www.linkedin.com/in/hendrew-carvalho-689209243/" target="_blank"><img alt="Linkedin" height="60" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-     </a>  
+    <a href="https://www.linkedin.com/in/hendrew-carvalho-689209243/" target="_blank"><img alt="Linkedin" height="60" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>  
+    <a href="https://steamcommunity.com/profiles/76561198110532414/" target="_blank"><img alt="Steam" height="60" width="180" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/hendrew06/" target="_blank">
+    <img alt="Instagram" height="60" width="180" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+    <h1>Contato</h1>
+    <a href="https://api.whatsapp.com/send?phone=5541998487770" target="_blank"><img alt="WhatsApp" height="60" width="180" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a>  
+    <a href="mailto:hendreewgustavo@gmail.com" target="_blank"><img alt="Gmail" height="60" width="180" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
 </div>
