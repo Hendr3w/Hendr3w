@@ -10,7 +10,7 @@
 ##
 
 <div align="center" >
-    <h1>Skills</h1>
+    <h1>Hard Skills</h1>
      <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="DOTNET" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
@@ -30,7 +30,7 @@
     <a href="https://steamcommunity.com/profiles/76561198110532414/" target="_blank"><img alt="Steam" height="40" width="180" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
     </a>
     <a href="https://www.instagram.com/hendrew06/" target="_blank">
-    <img alt="Instagram" height="60" width="180" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img alt="Instagram" height="40" width="180" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
 </div>
 
