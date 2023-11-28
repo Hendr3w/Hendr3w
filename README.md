@@ -9,6 +9,7 @@
 ##
 
 <div align="center" ><br>
+    <h1>Linguagens</h1>
   <img align="center" alt="Csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="DOTNET" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt=".NET-CORE" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
