@@ -8,7 +8,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: flex-box><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="DOTNET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt=".NET-CORE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
@@ -20,8 +20,6 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-- 👋 Olá Meu nome é Hendrew 
-- 👀 Tenho interesse em tudo que envolva tecnologia
-- 🌱 Atualmente estou cursando Eng. De Software 
-- 💞️ Estou em busca de estágio e experiência profissional
-
+<div align="center">
+     <a href="https://www.linkedin.com/in/hendrew-carvalho-689209243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
