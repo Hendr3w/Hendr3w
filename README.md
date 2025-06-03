@@ -7,7 +7,7 @@
   </a>
 </div>
 
-##
+
 
 <div align="center" >
     <h1>Hard Skills</h1>
